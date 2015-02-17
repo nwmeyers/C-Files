@@ -1,7 +1,7 @@
 # C-Files by Nick Meyers
 Programs Used in C
 
- Includes:
+ Includes: \n
 1. WordCounter.c
 
 WordCounter Synopsis:
